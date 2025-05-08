@@ -1,0 +1,33 @@
+[16-Apr-2025 11:07:11 UTC] PHP Warning:  move_uploaded_file(career_uploads/career_67ff8f5fe31678.61299423.jpg): Failed to open stream: No such file or directory in /home2/avconexpo/public_html/admin/save_career.php on line 20
+[16-Apr-2025 11:07:11 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpGhawei&quot; to &quot;career_uploads/career_67ff8f5fe31678.61299423.jpg&quot; in /home2/avconexpo/public_html/admin/save_career.php on line 20
+[16-Apr-2025 11:09:10 UTC] PHP Warning:  move_uploaded_file(career_uploads/career_67ff8fd6a73424.39178050.png): Failed to open stream: No such file or directory in /home2/avconexpo/public_html/admin/save_career.php on line 20
+[16-Apr-2025 11:09:10 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpdpdwtD&quot; to &quot;career_uploads/career_67ff8fd6a73424.39178050.png&quot; in /home2/avconexpo/public_html/admin/save_career.php on line 20
+[16-Apr-2025 18:51:31 UTC] PHP Warning:  move_uploaded_file(career_uploads/career_67fffc33e9b902.53884990.pdf): Failed to open stream: No such file or directory in /home2/avconexpo/public_html/admin/save_career.php on line 20
+[16-Apr-2025 18:51:31 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpaKQ16V&quot; to &quot;career_uploads/career_67fffc33e9b902.53884990.pdf&quot; in /home2/avconexpo/public_html/admin/save_career.php on line 20
+[17-Apr-2025 06:18:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/avconexpo/public_html/admin/check_login.php:16) in /home2/avconexpo/public_html/admin/check_login.php on line 21
+[17-Apr-2025 06:18:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/avconexpo/public_html/admin/check_login.php:16) in /home2/avconexpo/public_html/admin/check_login.php on line 21
+[17-Apr-2025 06:19:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/avconexpo/public_html/admin/check_login.php:16) in /home2/avconexpo/public_html/admin/check_login.php on line 21
+[17-Apr-2025 06:21:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/avconexpo/public_html/admin/check_login.php:16) in /home2/avconexpo/public_html/admin/check_login.php on line 21
+[17-Apr-2025 06:24:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/avconexpo/public_html/admin/check_login.php:16) in /home2/avconexpo/public_html/admin/check_login.php on line 21
+[17-Apr-2025 06:25:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/avconexpo/public_html/admin/check_login.php:16) in /home2/avconexpo/public_html/admin/check_login.php on line 21
+[17-Apr-2025 06:28:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/avconexpo/public_html/admin/check_login.php:16) in /home2/avconexpo/public_html/admin/check_login.php on line 21
+[17-Apr-2025 06:29:24 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/avconexpo/public_html/admin/check_session.php on line 3
+[17-Apr-2025 06:29:24 UTC] PHP Warning:  Undefined global variable $_SESSION in /home2/avconexpo/public_html/admin/check_session.php on line 5
+[17-Apr-2025 06:29:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/avconexpo/public_html/admin/check_session.php on line 5
+[17-Apr-2025 06:29:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/avconexpo/public_html/admin/add_job_post.php:1) in /home2/avconexpo/public_html/admin/check_session.php on line 7
+[17-Apr-2025 06:29:24 UTC] PHP Warning:  Undefined global variable $_SESSION in /home2/avconexpo/public_html/admin/header.php on line 155
+[17-Apr-2025 06:29:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/avconexpo/public_html/admin/header.php on line 155
+[17-Apr-2025 07:03:28 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/avconexpo/public_html/admin/check_session.php on line 3
+[17-Apr-2025 07:03:28 UTC] PHP Warning:  Undefined global variable $_SESSION in /home2/avconexpo/public_html/admin/check_session.php on line 5
+[17-Apr-2025 07:03:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/avconexpo/public_html/admin/check_session.php on line 5
+[17-Apr-2025 07:03:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/avconexpo/public_html/admin/add_job_post.php:1) in /home2/avconexpo/public_html/admin/check_session.php on line 7
+[17-Apr-2025 07:03:28 UTC] PHP Warning:  Undefined global variable $_SESSION in /home2/avconexpo/public_html/admin/header.php on line 155
+[17-Apr-2025 07:03:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/avconexpo/public_html/admin/header.php on line 155
+[17-Apr-2025 07:08:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/avconexpo/public_html/admin/check_session.php on line 3
+[17-Apr-2025 07:08:52 UTC] PHP Warning:  Undefined global variable $_SESSION in /home2/avconexpo/public_html/admin/check_session.php on line 5
+[17-Apr-2025 07:08:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/avconexpo/public_html/admin/check_session.php on line 5
+[17-Apr-2025 07:08:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/avconexpo/public_html/admin/add_job_post.php:1) in /home2/avconexpo/public_html/admin/check_session.php on line 7
+[17-Apr-2025 07:08:52 UTC] PHP Warning:  Undefined global variable $_SESSION in /home2/avconexpo/public_html/admin/header.php on line 155
+[17-Apr-2025 07:08:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/avconexpo/public_html/admin/header.php on line 155
+[07-May-2025 05:31:22 UTC] PHP Warning:  Undefined array key "login_status" in /home2/avconexpo/public_html/admin/check_session.php on line 5
+[07-May-2025 05:31:22 UTC] PHP Warning:  Undefined array key "firstname" in /home2/avconexpo/public_html/admin/header.php on line 155
