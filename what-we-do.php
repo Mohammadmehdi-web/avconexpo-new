@@ -179,10 +179,10 @@
                 <div class="row gy-5 gx-65 d-flex align-items-center">
                     <div class="col-lg-6">
                         <div class="about-thumb">
-                            <div class="thumb1"><img src="assets/img/aboutus/3.jpg" alt="thumb"
+                            <div class="thumb1"><img src="assets/img/service/About_2.png" alt="thumb"
                                     class="wow img-custom-anim-left" ata-wow-duration="1.5s" data-wow-delay="0.2s">
                             </div>
-                            <div class="thumb2"><img src="assets/img/about/aboutThumb3_2.jpg" alt="thumb" class="wow img-custom-anim-top
+                            <div class="thumb2"><img src="assets/img/service/planingfactory1.png" alt="thumb" class="wow img-custom-anim-top
                                 " ata-wow-duration="1.5s" data-wow-delay="0.4s"></div>
 
                             <div class="counter-box-card style3">
@@ -361,7 +361,7 @@
                     </div>
                     <div class="col-lg-5">
                         <div class="core-feature-thumb wow img-custom-anim-right">
-                            <img src="assets\img\corevaluenew.webp" alt="thumb">
+                            <img src="assets/img/service/about_3.png" alt="thumb">
                         </div>
                     </div>
                 </div>

@@ -262,7 +262,7 @@
                     </div>
                     <div class="col-lg-5">
                         <div class="core-feature-thumb wow img-custom-anim-right">
-                            <img src="assets/img/service/mission value.jpg" alt="thumb">
+                            <img src="assets/img/service/About_4.png" alt="thumb">
                         </div>
                     </div>
                 </div>

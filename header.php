@@ -21,7 +21,7 @@
                 <div class="offcanvas__content">
                     <div class="offcanvas__top mb-5 d-flex justify-content-between align-items-center">
                         <div class="offcanvas__logo">
-                            <a href="https://www.avconexpo.com/index.html">
+                            <a href="index.html">
                                 <img src="assets/img/logo/logo.png" alt="logo-img" />
                             </a>
                         </div>
@@ -36,7 +36,7 @@
                     </p>
                     <div class="mobile-menu fix mb-3"></div>
                     <div class="main-button">
-                        <a href="https://www.avconexpo.com/contact.html" class="theme-btn w-100 text-center">
+                        <a href="contact.html" class="theme-btn w-100 text-center">
                             Contact Us
                             <i class="fa-sharp fa-regular fa-arrow-up-right"></i>
                         </a>
@@ -49,7 +49,7 @@
                                     <i class="fal fa-map-marker-alt"></i>
                                 </div>
                                 <div class="offcanvas__contact-text">
-                                    <a href="https://www.avconexpo.com/#">1/6/55, Sector J, Pocket 6, Sushant Golf City, Lucknow - 226030, UP, India</a>
+                                    <a href="#">1/6/55, Sector J, Pocket 6, Sushant Golf City, Lucknow - 226030, UP, India</a>
                                 </div>
                             </li>
                             <li class="d-flex align-items-center">
@@ -57,7 +57,7 @@
                                     <i class="fal fa-envelope"></i>
                                 </div>
                                 <div class="offcanvas__contact-text">
-                                    <a target="_blank" href="https://www.avconexpo.com/mailto:consult@avconexpo.com"><span> consult@avconexpo.com</span></a>
+                                    <a target="_blank" href="mailto:consult@avconexpo.com"><span> consult@avconexpo.com</span></a>
                                 </div>
                             </li>
                             <li class="d-flex align-items-center">
@@ -65,18 +65,18 @@
                                     <i class="far fa-phone"></i>
                                 </div>
                                 <div class="offcanvas__contact-text">
-                                    <a href="https://www.avconexpo.com/tel:+91-7007729873">+91-7007729873</a>,
-                                    <a href="https://www.avconexpo.com/tel:+91-7860563231">+91-7860563231</a>
+                                    <a href="tel:+91-7007729873">+91-7007729873</a>,
+                                    <a href="tel:+91-7860563231">+91-7860563231</a>
                                 </div>
                             </li>
                         </ul>
                         <div class="header-button mt-4"></div>
                        
                         <div class="social-icon d-flex align-items-center">
-                            <a target="_blank" href="https://www.avconexpo.com/https://www.facebook.com/people/AVCONEXPO/100094786465776/"><i class="fab fa-facebook-f"></i></a>
-                            <a target="_blank" href="https://www.avconexpo.com/#"><i class="fab fa-instagram"></i></a>
-                            <a target="_blank" href="https://www.avconexpo.com/https://www.linkedin.com/company/avconexpo/"><i class="fab fa-linkedin-in"></i></a>
-                            <a target="_blank" href="https://www.avconexpo.com/#"><i class="fab fa-youtube"></i></a>
+                            <a target="_blank" href="https://www.facebook.com/people/AVCONEXPO/100094786465776/"><i class="fab fa-facebook-f"></i></a>
+                            <a target="_blank" href="#"><i class="fab fa-instagram"></i></a>
+                            <a target="_blank" href="https://www.linkedin.com/company/avconexpo/"><i class="fab fa-linkedin-in"></i></a>
+                            <a target="_blank" href="#"><i class="fab fa-youtube"></i></a>
                         </div>
                     </div>
                 </div>
@@ -91,26 +91,26 @@
                 <div class="header-top-wrapper">
                     <ul>
                         <li>
-                            <a target="_blank" href="https://www.avconexpo.com/https://www.facebook.com/people/AVCONEXPO/100094786465776/"><i class="fab fa-facebook-f"></i></a>
-                            <a href="https://www.avconexpo.com/#"><i class="fab fa-instagram"></i></a>
+                            <a target="_blank" href="https://www.facebook.com/people/AVCONEXPO/100094786465776/"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#"><i class="fab fa-instagram"></i></a>
                            
-                            <a target="_blank" href="https://www.avconexpo.com/https://www.linkedin.com/company/avconexpo/"><i class="fab fa-linkedin-in"></i></a>
-                            <a href="https://www.avconexpo.com/#"><i class="fab fa-youtube"></i></a>
+                            <a target="_blank" href="https://www.linkedin.com/company/avconexpo/"><i class="fab fa-linkedin-in"></i></a>
+                            <a href="#"><i class="fab fa-youtube"></i></a>
                         </li>
                         <li class="text-white line">|</li>
                         <li>
                            
                             <i class="fa-solid fa-envelope"></i>
-                            <a target="_blank" href="https://www.avconexpo.com/mailto:consult@avconexpo.com">consult@avconexpo.com</a>
+                            <a target="_blank" href="mailto:consult@avconexpo.com">consult@avconexpo.com</a>
                         </li>
                     </ul>
                     <ul>
                         <li>
                             <i class="fa-solid fa-phone" style="margin-right:5px;"></i>
-                            <a href="https://www.avconexpo.com/tel:+917007729873">+91-7007729873</a>
+                            <a href="tel:+917007729873">+91-7007729873</a>
 
                             <i class="fa-solid fa-phone" style="margin-left:25px; margin-right:5px;"></i>
-                            <a href="https://www.avconexpo.com/tel:+917860563231">+91-7860563231</a>
+                            <a href="tel:+917860563231">+91-7860563231</a>
                            
                         </li>
                     </ul>
@@ -121,73 +121,73 @@
             <div class="container-fluid">
                 <div class="mega-menu-wrapper">
                     <div class="header-main">
-                        <a href="https://www.avconexpo.com/index.php">
+                        <a href="index.php">
                             <img src="assets/img/logo/logo.png" alt="logo-img" />
                         </a>
                         <div class="mean__menu-wrapper">
                             <div class="main-menu">
                                 <nav id="mobile-menu">
                                     <ul>
-                                        <li class="active"><a href="https://www.avconexpo.com/index.php">Home</a></li>
+                                        <li class="active"><a href="index.php">Home</a></li>
 
                                         <li class="has-dropdown">
-                                            <a href="https://www.avconexpo.com/#">About Us
+                                            <a href="#">About Us
                                             <i class="fa-regular fa-plus"></i>
                                             </a>
                                             <ul class="submenu">
                                                 <li>
-                                                    <a href="https://www.avconexpo.com/overview.php">Overview
+                                                    <a href="overview.php">Overview
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a href="https://www.avconexpo.com/mission-vision-value.php">Mission, Vision & Values</a>
+                                                    <a href="mission-vision-value.php">Mission, Vision & Values</a>
                                                 </li>
-                                                <li><a href="https://www.avconexpo.com/team.php">Team</a></li>
-                                                <li><a href="https://www.avconexpo.com/what-we-do.php">What we do</a></li>
+                                                <li><a href="team.php">Team</a></li>
+                                                <li><a href="what-we-do.php">What we do</a></li>
                                                 <li>
 
                                             </ul>
                                         </li>
                                         <li class="has-dropdown">
-                                            <a href="https://www.avconexpo.com/services.php">
+                                            <a href="services.php">
                                                 Services
                                                 <i class="fa-regular fa-plus"></i>
                                             </a>
 
                                             <ul class="submenu">
                                                 <li>
-                                                    <a href="https://www.avconexpo.com/business-technical-consulting.php">Business &amp; Technical Consultancy
+                                                    <a href="business-technical-consulting.php">Business &amp; Technical Consultancy
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a href="https://www.avconexpo.com/project-management.php">Project Management</a>
+                                                    <a href="project-management.php">Project Management</a>
                                                 </li>
-                                                <li><a href="https://www.avconexpo.com/architecture-design.php">Architecture & Designing</a></li>
-                                                <li><a href="https://www.avconexpo.com/startup-accelerator.php">Startup Accelerator</a></li>
+                                                <li><a href="architecture-design.php">Architecture & Designing</a></li>
+                                                <li><a href="startup-accelerator.php">Startup Accelerator</a></li>
                                                 <li>
-                                                    <a href="https://www.avconexpo.com/trading-sourcing.php">Trading & Sourcing</a>
+                                                    <a href="trading-sourcing.php">Trading & Sourcing</a>
                                                 </li>
                                                 <li>
-                                                    <a href="https://www.avconexpo.com/reviving-sick-industries.php">Reviving Sick Industries</a>
+                                                    <a href="reviving-sick-industries.php">Reviving Sick Industries</a>
                                                 </li>
-                                                <li><a href="https://www.avconexpo.com/waste-management.php">Waste Management</a></li>
-                                                <li><a href="https://www.avconexpo.com/talent-management.php">Talent Management</a></li>
-                                                <li><a href="https://www.avconexpo.com/agriculture-ecotourism.php">Agriculture & Horticulture, Ecotourism</a></li>
+                                                <li><a href="waste-management.php">Waste Management</a></li>
+                                                <li><a href="talent-management.php">Talent Management</a></li>
+                                                <li><a href="agriculture-ecotourism.php">Agriculture & Horticulture, Ecotourism</a></li>
                                                 
                                                 <!--<li>-->
-                                                <!--    <a href="https://www.avconexpo.com/ecotourism.php">Ecotourism</a>-->
+                                                <!--    <a href="ecotourism.php">Ecotourism</a>-->
                                                 <!--</li>-->
                                               
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="https://www.avconexpo.com/project.php">Projects</a>
+                                            <a href="project.php">Projects</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.avconexpo.com/blogs.php">Blogs</a>
+                                            <a href="blogs.php">Blogs</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.avconexpo.com/career.php">Career</a>
+                                            <a href="career.php">Career</a>
                                         </li>
                                        
                                     </ul>
@@ -196,7 +196,7 @@
                         </div>
                         <div class="header-right d-flex justify-content-end align-items-center">
                             <div class="header-button">
-                                <a href="https://www.avconexpo.com/contact.php" class="theme-btn">Get In Touch
+                                <a href="contact.php" class="theme-btn">Get In Touch
                                     <i class="fa-sharp fa-regular fa-arrow-up-right"></i></a>
                             </div>
 
